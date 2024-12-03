@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aluno/Aluno.iml" filepath="$PROJECT_DIR$/Aluno/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicoOO1/BasicoOO1.iml" filepath="$PROJECT_DIR$/BasicoOO1/BasicoOO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista_Repeticoes/Lista_Repeticoes.iml" filepath="$PROJECT_DIR$/Lista_Repeticoes/Lista_Repeticoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+    </modules>
+  </component>
+</project>
